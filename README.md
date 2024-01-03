@@ -1,2 +1,0 @@
-# MochiRepo
-Small AltStore Repo
